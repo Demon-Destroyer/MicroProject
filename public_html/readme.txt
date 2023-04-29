@@ -6,6 +6,16 @@ This is a simple HTML form for enrolling students, which allows the user to ente
 
 To use this form, you need to have an internet connection and a web browser. The form requires jQuery and Bootstrap libraries.
 
+----------Advantages of using jsonpowerdb----------
+1. Schema-free data model
+2. High performance
+3. Multi-mode database
+4. Lightweight
+5. Easy to use
+6. Real-time data processing
+7. Security
+8. Scalable
+
 -------------Usage-------------------------------
 
 To use the form, follow these steps:
